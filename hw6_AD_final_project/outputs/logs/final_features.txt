@@ -1,0 +1,38 @@
+‘≤Õ¿À‹Õ€ —œ≤— œ–€ Ã≈“
+==================================================
+ 1. gmrt_on_paper_C_G_ratio
+ 2. gmrt_on_paper_C_mean
+ 3. gmrt_on_paper_G_mean
+ 4. gmrt_on_paper_M_G_ratio
+ 5. gmrt_on_paper_M_mean
+ 6. max_x_extension_C_mean
+ 7. max_x_extension_G_mean
+ 8. max_x_extension_M_mean
+ 9. max_y_extension_C_mean
+10. max_y_extension_G_mean
+11. max_y_extension_M_mean
+12. mean_acc_on_paper_C_G_ratio
+13. mean_acc_on_paper_C_mean
+14. mean_acc_on_paper_G_mean
+15. mean_acc_on_paper_M_G_ratio
+16. mean_acc_on_paper_M_mean
+17. mean_speed_on_paper_C_G_ratio
+18. mean_speed_on_paper_C_mean
+19. mean_speed_on_paper_G_mean
+20. mean_speed_on_paper_M_G_ratio
+21. mean_speed_on_paper_M_mean
+22. num_of_pendown_C_G_ratio
+23. num_of_pendown_C_mean
+24. num_of_pendown_G_mean
+25. num_of_pendown_M_G_ratio
+26. num_of_pendown_M_mean
+27. pressure_mean_C_G_ratio
+28. pressure_mean_C_mean
+29. pressure_mean_G_mean
+30. pressure_mean_M_G_ratio
+31. pressure_mean_M_mean
+32. total_time_C_G_ratio
+33. total_time_C_mean
+34. total_time_G_mean
+35. total_time_M_G_ratio
+36. total_time_M_mean

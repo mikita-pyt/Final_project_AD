@@ -1,0 +1,17 @@
+feature,p_value,test
+total_time_G_mean,6.253435635524452e-14,Mann-Whitney
+total_time_C_mean,3.4780315749522606e-10,Mann-Whitney
+pressure_mean_C_mean,1.203261294367074e-08,Mann-Whitney
+pressure_mean_G_mean,1.7100423532620008e-08,Mann-Whitney
+pressure_mean_M_mean,1.1276622579332444e-07,Mann-Whitney
+num_of_pendown_G_mean,5.104533245846821e-06,T-test
+max_y_extension_G_mean,7.880039262550079e-06,T-test
+total_time_M_mean,4.572124274259356e-05,Mann-Whitney
+num_of_pendown_M_mean,6.531759279881375e-05,Mann-Whitney
+total_time_M_G_ratio,0.0001503635563059223,Mann-Whitney
+gmrt_on_paper_C_G_ratio,0.0024312239951116196,Mann-Whitney
+max_x_extension_G_mean,0.003077062998189377,T-test
+max_x_extension_M_mean,0.016894767507910663,Mann-Whitney
+mean_speed_on_paper_C_G_ratio,0.019792660719432507,T-test
+num_of_pendown_M_G_ratio,0.030295766716996183,Mann-Whitney
+num_of_pendown_C_G_ratio,0.033415177424424625,Mann-Whitney
