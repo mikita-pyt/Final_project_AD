@@ -25,5 +25,3 @@
 | **F1-score (Test)** | 0.519 |
 | **ROC-AUC (Test)** | 0.636 |
 """
-print("\n📁 Путь:", readme_path.resolve())
-print("\n🎉 ГОТОВО!")
