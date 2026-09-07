@@ -1,9 +1,3 @@
-import os
-from pathlib import Path
-
-# Путь к файлу README.md
-readme_path = Path("README.md")
-
 ## Файл проекта
 **Финальный проект находится в файле: `AD_upd_fixed4.ipynb`**
 
