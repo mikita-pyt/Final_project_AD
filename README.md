@@ -25,15 +25,5 @@
 | **F1-score (Test)** | 0.519 |
 | **ROC-AUC (Test)** | 0.636 |
 """
-with open(readme_path, "w", encoding="utf-8") as f:
-    f.write(readme_content)
-
-print("="*80)
-print("README.md ОБНОВЛЕН")
-print("="*80)
-print("\n✅ В файл README.md записаны:")
-print("   - Структура проекта")
-print("   - Вывод по проекту")
-print("   - Ключевые метрики")
 print("\n📁 Путь:", readme_path.resolve())
 print("\n🎉 ГОТОВО!")
